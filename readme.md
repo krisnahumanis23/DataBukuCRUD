@@ -11,6 +11,7 @@ Deskripsi Aplikasi
 Aplikasi "Data Buku" adalah sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk menyimpan, menampilkan, mengedit, dan menghapus data buku. Aplikasi ini dilengkapi dengan fitur login dan register untuk keamanan pengguna.
 
  Fitur Aplikasi
+ 
 A.	Login
 Pengguna perlu melakukan login untuk mengakses fungsionalitas utama aplikasi. Setiap pengguna memiliki akun dengan informasi login yang unik.
  	Langkah-langkah Login:
