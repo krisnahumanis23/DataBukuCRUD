@@ -1,9 +1,9 @@
 # UAS Mobile Computing Semester 119
 ## Aplikasi Data Buku CRUD
 
-Krisna Humanis
-1313621015
-Ilmu Komputer 2021
+### Krisna Humanis
+### 1313621015
+### Ilmu Komputer 2021
 
 Demo Aplikasi [Data Buku CRUD Krisna](https://youtu.be/RN1t-o1GjAY)
 
