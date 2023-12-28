@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855258082725",
+    "project_id": "krisnadb-d6d7d",
+    "storage_bucket": "krisnadb-d6d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855258082725:android:a20b4f0e621ee08cc64c4c",
+        "android_client_info": {
+          "package_name": "com.example.krisna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUSQigBv8lqq9VqWn8uL02O3jpkm1ybc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

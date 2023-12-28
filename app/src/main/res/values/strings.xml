@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Krisna</string>
+    <string name="kode_buku">Kode Buku: %1$s</string>
+</resources>

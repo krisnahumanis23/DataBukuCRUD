@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="8dp"
+    android:layout_marginTop="8dp">
+
+    <!-- Konten CardView -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- Kode Buku -->
+        <TextView
+            android:id="@+id/etkodeBuku"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kode Buku"
+            android:textSize="12sp"
+            android:textColor="@android:color/darker_gray" />
+
+        <!-- Judul -->
+        <TextView
+            android:id="@+id/etTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textSize="8pt"
+            android:textColor="@android:color/black"
+            android:layout_below="@+id/etkodeBuku"
+            android:layout_centerVertical="true"/>
+
+        <!-- Subjudul -->
+        <TextView
+            android:id="@+id/etSubtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etTitle"
+            android:text="Subtitle"
+            android:textSize="14sp"
+            android:textColor="@android:color/darker_gray"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
